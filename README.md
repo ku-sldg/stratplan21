@@ -1,2 +1,4 @@
-# stratplan21
-Strategic planning documents
+# ITTC Strategic Planning 2021
+
+[[Home|Home]]
+
