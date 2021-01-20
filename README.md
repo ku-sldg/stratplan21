@@ -20,4 +20,4 @@ There are a number of non-negotiables in this process:
 
 0. ITTC will retain its culture.
 1. ITTC services will not be diminished.
-2. We will be aspirational
+2. We will be aspirational.
