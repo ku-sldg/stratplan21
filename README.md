@@ -1,7 +1,7 @@
 # ITTC Strategic Planning 2021
 
 Home for documentation associated with ITTC's 2021 Strategic Planning activity.  Visit the wiki link above to see the ongoing plan as it is updated.
-https://github.com/ku-sldg/stratplan21/wiki
+[wiki link](https://github.com/ku-sldg/stratplan21/wiki)
 
 Our goals are to:
 
