@@ -1,6 +1,6 @@
 # ITTC Strategic Planning 2021
 
-Home for documentation associated with ITTC's 2021 Strategic Planning activity.  Visit the wiki linke above to see the ongoing plan as it is updated.
+Home for documentation associated with ITTC's 2021 Strategic Planning activity.  Visit the wiki link above to see the ongoing plan as it is updated.
 
 Our goals are to:
 
