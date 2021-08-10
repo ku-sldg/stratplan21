@@ -19,6 +19,6 @@ The process for our planning is:
 
 There are a number of non-negotiables in this process:
 
-0. ITTC will retain its culture.
-1. ITTC services will not be diminished.
-2. We will be aspirational.
+0. ITTC will retain its culture - PI centered support for research.
+1. ITTC services will not be diminished - Administrative and Technical support will continue to be outstanding.
+2. ITTC will be aspirational - We will think big and go after new opportunities.
